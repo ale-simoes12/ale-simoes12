@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">Programming Languages</h4>
+<h4 align="left">**Programming Languages**</h4>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">Frameworks & Libraries</h4>
+<h4 align="left">**Frameworks & Libraries**</h4>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h4 align="left">Tools & Technologies</h4>
+<h4 align="left">**Tools & Technologies**</h4>
 
 ###
 
@@ -98,6 +98,16 @@
   <a href="alessandro.medrano321@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<h3 align="left">My Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-simoes12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gotham&hide_border=false&order=2" height="190" alt="languages graph"  />
 </div>
 
 ###
