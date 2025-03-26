@@ -14,11 +14,18 @@
 
 ###
 
-<p align="left">- 🎓 Final-year student at FEI University.  <br>- 🚀 Enthusiastic about **Software Engineering**, **Machine Learning**, and **Data Science**.  <br>- 🌟 Strong foundation in mathematics, logic, and problem-solving.</p>
+<p align="left">
+- 🎓 Final-year student at FEI University.  <br>
+- 🚀 Enthusiastic about **Software Engineering**, **Machine Learning**, and **Data Science**.  <br>
+- 🌟 Strong foundation in mathematics, logic, and problem-solving.  <br>
+- 📄 My research work: [3D Reconstruction of Buildings](https://repositorio.fei.edu.br/items/e40b4f2b-411a-4b36-ac6b-97046ac6baaa).
+</p>
+
 
 ###
 
 <h3 align="left">🛠️ My Technical Skills</h3>
+
 
 ###
 
